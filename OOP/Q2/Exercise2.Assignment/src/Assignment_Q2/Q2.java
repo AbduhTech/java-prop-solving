@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package Assignment_Q2;
+package Q2;
 import java.util.Scanner;
 /**
  *
  * @author Nafi
  */
-public class Assignment_Q2 {
+public class Q2 {
 
     /**
      * @param args the command line arguments
