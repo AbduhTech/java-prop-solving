@@ -16,6 +16,9 @@ to calculate the net salary of the employees working for the company. The progra
 able to do repetition based on the number of employees in the company. The table of
 calculation is given below: 
 
+
+![Capture 3](https://user-images.githubusercontent.com/40442102/99149484-4736fc80-26c9-11eb-9f24-c797e87b54cd.PNG)
+
    ____________________________________________________________ 
   |  Basic Salary   |  Tax  |    KWSP   |  Housing Allowance  |
   |_________________|_______|___________|_____________________| 
