@@ -18,17 +18,7 @@ calculation is given below:
 
 
 ![Capture 3](https://user-images.githubusercontent.com/40442102/99149484-4736fc80-26c9-11eb-9f24-c797e87b54cd.PNG)
-
-   ____________________________________________________________ 
-  |  Basic Salary   |  Tax  |    KWSP   |  Housing Allowance  |
-  |_________________|_______|___________|_____________________| 
-  |  1 – 3000       |  5%   |           |        3%           | 
-  |  3001 – 5000    |  9%   |  7% or 9% |_____________________|
-  |  5001 – 7000    |  11%  |___________|                     |
-  |  7001 – 9000    |  13%  |           |      5%             |
-  |  9001 – 12000   |  15%  | 11% or 13%|_____________________|
-  |  12001 and above|  20%  |           |         7%          |
-  |_________________|_______|___________|_____________________|  
+ 
 
   The first column shows the basic salary. The second column shows the compulsory tax
 incurred which will be deducted from the basic salary. The third column shows the
