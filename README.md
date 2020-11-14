@@ -51,6 +51,7 @@ instance variables and methods.
 Address, and Place of Work. 
 
 
+![Capture 4](https://user-images.githubusercontent.com/40442102/99149550-b6145580-26c9-11eb-8244-18449104da0e.PNG)
 
 
 
